@@ -500,16 +500,15 @@ nav h4{
     margin: 10px;
 }
 #event img{
-    max-width: 250px;
-    max-height: 350px;
+    max-width: 350px;
+    max-height: 450px;
 }
 #event img{
     width: 90%;
     height: 100%;
 }
 #eventk img{
-    align-items: center;
-    justify-content: center;
+    margin: 10px;
     max-width: 350px;
     max-height: 200px;
 }
