@@ -472,11 +472,14 @@
 .sponsers #img1{
   margin: 10px;
 }
-/* .sponsers #img1 #pp{
-
-  align-items: left;
-} */
-
+.sponsers img{
+  max-width: 250px;
+  max-height: 350px;
+}
+.sponsers img{
+  width: 100%;
+  height: 100%;
+}
 
 
 /* Responsive adjustments */
