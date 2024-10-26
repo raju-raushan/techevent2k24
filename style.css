@@ -513,6 +513,14 @@ nav h4{
     max-width: 350px;
     max-height: 200px;
 }
+#eventh{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#eventh h2{
+    font-family: mera;
+    font-size: 3.5rem;
 #eventk img{
     margin: 10px;
     max-width: 350px;
