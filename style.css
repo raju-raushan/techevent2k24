@@ -568,6 +568,7 @@ nav h4{
     max-height: 100%;
 }
 #festival #about{
+    margin: 10px;
     width: 80%;
     text-align: justify;
 }
