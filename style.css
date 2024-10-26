@@ -520,8 +520,10 @@ nav h4{
     justify-content: center;
 }
 #eventh h2{
+    margin: 10px;
     font-family: mera;
     font-size: 3.5rem;
+}
 #eventk img{
     margin: 10px;
     max-width: 350px;
